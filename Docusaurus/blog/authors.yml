@@ -1,3 +1,21 @@
+MaulRai:
+  name: Muhammad Raihan Maulana
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/MaulRai
+  image_url: https://avatars.githubusercontent.com/u/142110290?v=4
+  page: true
+  socials:
+    github: MaulRai
+
+FasiIkom:
+  name: Muhammad Firaz Al Aqib
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/FasiIkom
+  image_url: https://avatars.githubusercontent.com/u/158117087?v=4
+  page: true
+  socials:
+    github: FasiIkom
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
